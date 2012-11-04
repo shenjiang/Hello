@@ -8,3 +8,5 @@ feature 1.1
 test ff
 
 test no ff.
+
+fix bug 1.
